@@ -1,0 +1,8 @@
+venv
+.history
+settings.json
+.ruff.toml
+__pycache__
+*/node_modules/
+*/alembic/README
+*package-lock.json
